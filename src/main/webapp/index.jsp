@@ -33,7 +33,7 @@
 </head>
 <body>
 
-    <h1>Welcome to Delicious Bites - Fine Dining Restaurant</h1>
+    <h1>Welcome to Delicious Bites <Fieldset>BUNS</Fieldset> - Fine Dining Restaurant</h1>
 
     <p>
         <a href="#menu">Click Here To Explore Our Delectable Menu</a>
